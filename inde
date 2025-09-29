@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>25/09/25<title>
+        </head>
+        <body>
+            <h1 "style=color:blue;"> abes college</h1>
+            <p>i am student of abes. </P>
+            <br><br>
+            <ol>
+            <li>bhawesh</li>
+            <li>bhavya</li>
+            <li>ayush</li>
+            <dl>
+                <dt>html</dt>
+                <dd>hyper text markup language</dd>
+                <dt>http</dt>
+                    <dd>hyper text transfer protocol</dd>
+            </dl>
+
+        </body>
+        </html>
