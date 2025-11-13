@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color:grey;
+}
+
+.block a{
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    text-align:start;
+}
+.inline a{
+    background-color: green;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    margin: 5px 2px;
+    
+}
+.inline-block a {
+    background-color: purple;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 2px;
+}
+.float a {
+    background-color: orange;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+margin: 5px 2px;
+}
