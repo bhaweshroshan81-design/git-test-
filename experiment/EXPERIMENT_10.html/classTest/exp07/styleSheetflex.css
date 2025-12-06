@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: lightgray;
+    padding: 10px;
+     }.box{
+        background-color: coral;
+        color: white;
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+        flex: 1 1 100px;
+        border-radius: 10px;
+        margin: ;
+    }
+.item1 { background-color: lightcoral; }
+.item2 { background-color: lightseagreen; }  
+.item3 { background-color: lightblue; }
+.item4 { background-color: lightgreen; }    
+.item5 { background-color: lightpink; }
+.item6 { background-color: lightgoldenrodyellow;           
+}
