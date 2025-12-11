@@ -1,0 +1,15 @@
+.main{
+    background-color: rgb(250, 244, 244);
+    text-align : center;
+}
+.header{
+    background-color: rgb(88, 81, 81);
+    color: white;
+    padding: 5px;
+    font-size: 7px;
+    font-weight: bold;
+}
+.button{
+    padding : 10px;
+    background-color: rgb(66, 74, 150);
+}
